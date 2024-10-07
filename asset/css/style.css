@@ -30,7 +30,6 @@
 }
 body{
   background: #FAFAFA;
-
 }
 .font-bold{
   font-family: 'Montserrat Bold';
@@ -54,7 +53,16 @@ body{
 .advantage{
   background: white;
 }
+.border-blue{
+  border-color: #23A6F0;
+}
+.text-blue{
+  color: #23A6F0;
+}
+.email_box{
+  background: linear-gradient(270deg, #D71489 -1.04%, #004788 100%);
 
+}
 @media(max-width:480px){
   header{
     background: white;
