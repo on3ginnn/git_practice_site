@@ -1,2 +1,3 @@
-# git_practice_site
-git practice site
+# Сайт про жизнь
+
+Живите полной жизнью!
