@@ -43,3 +43,6 @@
 .bg-blue{
   background: #23A6F0;
 }
+.cards {
+  transform: translateY(-50%);
+}
